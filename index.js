@@ -76,4 +76,4 @@ app.get('/basla', (req, res) => {
 })
 
 // Uygulama 3000 portundan çalışacak.
-app.listen(3000)
+app.listen(80)
