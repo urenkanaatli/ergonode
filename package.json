@@ -2,7 +2,7 @@
   "name": "iyzipay",
   "version": "2.0.34",
   "description": "iyzipay api node.js client",
-  "main": "lib/Iyzipay.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha $(find test -name '*Test.js')",
     "samples": "mocha $(find samples -name '*Samples.js')",
